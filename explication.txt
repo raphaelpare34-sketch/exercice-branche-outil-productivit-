@@ -1,2 +1,4 @@
 git clone https://github.com/raphaelpare34-sketch/exercice-branche-outil-productivit-.git
-je comprends comment créer une branche sur git
+2git stage Explication.txt
+git commit -m
+git push origin modifications
