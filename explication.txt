@@ -1,2 +1,4 @@
 git clone https://github.com/raphaelpare34-sketch/exercice-branche-outil-productivit-.git
-git 
+git stage Explication.txt
+git commit -m
+git push origin modifications
